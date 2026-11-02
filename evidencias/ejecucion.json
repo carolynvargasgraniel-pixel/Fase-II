@@ -1,0 +1,12 @@
+{
+  "repositorio": "https://github.com/carolynvargasgraniel-pixel/Fase-II",
+  "commit": "359e66abc26ee71674d387f61b80ca6c6689e51f",
+  "run_id": 41369659235,
+  "job_id": 125037187538,
+  "conclusion": "success",
+  "url": "https://github.com/carolynvargasgraniel-pixel/Fase-II/actions/runs/41369659235",
+  "pruebas_aprobadas": 35,
+  "total_pruebas": 35,
+  "registro": "evidencias/docker_fase_ii.log",
+  "entorno": "Ubuntu 24.04.5 con Docker 28.0.4 en runner de GitHub Actions"
+}

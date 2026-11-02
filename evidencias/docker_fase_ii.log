@@ -1,0 +1,10 @@
+Extracto de resultados públicos de construcción y validación de Docker. Se omiten metadatos internos del runner y del flujo.
+Ejecución: https://github.com/carolynvargasgraniel-pixel/Fase-II/actions/runs/41369659235
+#10 writing image sha256:938e2af6ba83fe06a7f5d4ba2266227ad624a953d71ce882d474ea8bad88b156 done
+#10 naming to docker.io/library/aclaraciones-ia:fase2 done
+{"estado": "ok", "modelo": "nb-aclaraciones-1"}{
+  "total_pruebas": 35,
+  "aprobadas": 35,
+  "accuracy": 0.8888888888888888,
+  "macro_f1": 0.9333333333333332
+sha256:938e2af6ba83fe06a7f5d4ba2266227ad624a953d71ce882d474ea8bad88b156 running
